@@ -1,0 +1,17 @@
+{
+ "applinks": {
+  "details": [
+  { 
+   "appIDs": [
+            "style-x.CloudKit911" 
+  "components": [
+   {
+      "/":"*", "comment": "Any comments"
+      }
+    ]
+  }
+  ]
+}
+}
+   
+
