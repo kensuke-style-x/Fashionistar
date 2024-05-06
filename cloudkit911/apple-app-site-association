@@ -4,10 +4,9 @@
   "details": [
   { 
    "appID": "5584UXNC99.style-x.CloudKit911",
-   "paths": [ "*" ]
+   "paths": ["*"]
       }
     ]
   }
-  ]
 }
-}
+
