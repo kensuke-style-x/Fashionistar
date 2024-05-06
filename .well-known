@@ -1,9 +1,9 @@
 {
  "applinks": {
+    "apps": [],
   "details": [
   { 
-   "appIDs": [
-            "style-x.CloudKit911" 
+   "appIDs": ["{5584UXNC99}".{style-x.CloudKit911}",
    "paths": [ "*" ]
       }
     ]
