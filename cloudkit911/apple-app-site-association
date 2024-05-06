@@ -3,7 +3,7 @@
     "apps": [],
   "details": [
   { 
-   "appID": "{5584UXNC99}.{style-x.CloudKit911}",
+   "appID": "style-x.CloudKit911",
    "paths": [ "*" ]
       }
     ]
