@@ -3,7 +3,7 @@
     "apps": [],
   "details": [
   { 
-   "appIDs": "5584UXNC99.style-x.StyleBook-Sample",
+   "appIDs": ["5584UXNC99.style-x.StyleBook-Sample","5584UXNC99.style-x.CloudKit911"],
    "components": [ "*" ]
       }
     ]
