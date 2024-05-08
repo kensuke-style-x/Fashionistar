@@ -1,0 +1,13 @@
+{
+ "applinks": {
+    "apps": [],
+  "details": [
+  { 
+   "appIDs": ["5584UXNC99.style-x.StyleBook-Sample","5584UXNC99.style-x.Universal-Links"],
+   "paths": [ "*" ]
+      }
+    ]
+  }
+  ]
+}
+}
