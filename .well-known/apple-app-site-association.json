@@ -4,7 +4,11 @@
   "details": [
   { 
    "appIDs": ["5584UXNC99.style-x.StyleBook-Sample","5584UXNC99.style-x.Universal-Links"],
-   "paths": [ "*" ]
+   "components": [
+    {
+     "/":"/path/to/content",
+     "exclude":["/path/to/excluded/content"
+   ]
       }
     ]
   }
