@@ -1,0 +1,8 @@
+openssl smime \
+    -sign \
+    -nodetach \
+    -in "unsigned.json" \
+    -out "apple-app-site-association" \
+    -outform DER \
+    -inkey "private-key.pem" \
+    -signer "certificate.pem"
