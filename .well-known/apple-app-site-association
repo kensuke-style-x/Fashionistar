@@ -4,8 +4,8 @@
     "details": [
   {
  "appID": "5584UXNC99.style-x.StyleBook-Sample",
-  "paths": ["/info/subscription"]
+  "paths": ["/info/*"]
   }
-]
+ ]
  }
 }
