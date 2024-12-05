@@ -1,3 +1,4 @@
+// Star Image 
 let starImage = document.querySelector('.Star');
 
 starImage.onclick = function() {
