@@ -2,7 +2,7 @@ let starImage = document.querySelector('.Star');
 
 starImage.onclick = function() {
 
-  let starSrc = starImage.getAtrribute('src');
+  let starSrc = starImage.getAttribute('src');
 
   if(starSrc === 'Star/IMG_E5683.JPG'){
 
@@ -10,7 +10,7 @@ starImage.onclick = function() {
 
   } else {
 
-    starImage.setAttribue('src','Star/IMG_E5683.JPG');
+    starImage.setAttribute('src','Star/IMG_E5683.JPG');
   }
 }// function
 
