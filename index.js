@@ -7,7 +7,7 @@ function setUserName(){
     setUserName();
   } else {
     localStorage.setItem('name',nickName);
-    heading.innerHTML = 'You are Star, ' + nickName + '⭐️';
+    heading.innerHTML = 'You are Star⭐️ ' + nickName;
   }
 }
 
@@ -15,7 +15,7 @@ if(!localStorage.getItem('name')){
   setUserName();
 } else {
   let storedName = localStorage.getItem('name');
-  heading.innerHTML = 'You are Star, ' + storedName + '⭐️';
+  heading.innerHTML = 'You are Star⭐️' + storedName;
 }
 
 heading.onClick = function(){
