@@ -1,4 +1,4 @@
-//Greeting
+//You are Star 
 let heading = document.querySelector('h1');
 
 function setUserName(){
