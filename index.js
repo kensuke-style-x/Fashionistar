@@ -31,7 +31,7 @@ starImage.onclick = function() {
 
   if(starSrc === 'Star/IMG_E5683.JPG'){
 
-    starImage.setAttribute('src','Star/Starsearch.001.jpeg');
+    starImage.setAttribute('src','Star/thumbnail.jpeg');
 
   } else {
 
