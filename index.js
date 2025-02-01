@@ -23,20 +23,20 @@
 // }
 
 // Star Image 
-let starImage = document.querySelector('.Star');
+// let starImage = document.querySelector('.Star');
 
-starImage.onclick = function() {
+// starImage.onclick = function() {
 
-  let starSrc = starImage.getAttribute('src');
+//   let starSrc = starImage.getAttribute('src');
 
-  if(starSrc === 'Star/IMG_E5683.JPG'){
+//   if(starSrc === 'Star/IMG_E5683.JPG'){
 
-    starImage.setAttribute('src','Star/Star Search.001.jpeg');
+//     starImage.setAttribute('src','Star/Star Search.001.jpeg');
 
-  } else {
+//   } else {
 
-    starImage.setAttribute('src','Star/IMG_E5683.JPG');
-  }
-}// function
+//     starImage.setAttribute('src','Star/IMG_E5683.JPG');
+//   }
+// }// function
 
 
