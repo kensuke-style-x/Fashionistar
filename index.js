@@ -1,42 +1,35 @@
-// //You are Star 
-// let heading = document.querySelector('h1');
+// translate language 
+function showLanguage(lang){
+  
+ const languages = ['en','jp','ch_simplify','ch_traditional','fr','it','es','es_latino'];
+  languages.forEach(id => {
+     const section = document.getElementById(id);
+    if (section) {
+      section.classList.remove('active')
+      section.style.display = 'none';
+    }
+  });
 
-// function setUserName(){
-//   let nickName = prompt('Please enter your nickname.');
-//   if(!nickName){
-//     setUserName();
-//   } else {
-//     localStorage.setItem('name',nickName);
-//     heading.innerHTML = 'You are Star⭐️ ' + nickName;
-//   }
-// }
+  const targetSection = document.getElementById(lang)
+  if (targetSection){
+    targetSection.classList.add('active');
+    targetSection.style.display = 'block';
+  }
+}
 
-// if(!localStorage.getItem('name')){
-//   setUserName();
-// } else {
-//   let storedName = localStorage.getItem('name');
-//   heading.innerHTML = 'You are Star⭐️' + storedName;
-// }
+//button 
+document.addEventListener('DOMContentLoaded',() => {
 
-// heading.onClick = function(){
-//   setUserName();
-// }
+  document.getElementById('en-btn').addEventListener('click', () => showLanguage('en'));
+  document.getElementById('jp-btn').addEventListener('click', () => showLanguage('jp'));
+  document.getElementById('ch_simplify-btn').addEventListener('click', () => showLanguage('ch_simplify'));
+  document.getElementById('ch_traditional-btn').addEventListener('click', () => showLanguage('ch_traditional'));
+  document.getElementById('fr-btn').addEventListener('click', () => showLanguage('fr'));
+  document.getElementById('it-btn').addEventListener('click', () => showLanguage('it'));
+  document.getElementById('es-btn').addEventListener('click', () => showLanguage('es'));
+  document.getElementById('es_latino-btn').addEventListener('click', () => showLanguage('es_latino'));
+  
+});
+  
 
-// Star Image 
-// let starImage = document.querySelector('.Star');
-
-// starImage.onclick = function() {
-
-//   let starSrc = starImage.getAttribute('src');
-
-//   if(starSrc === 'Star/IMG_E5683.JPG'){
-
-//     starImage.setAttribute('src','Star/Star Search.001.jpeg');
-
-//   } else {
-
-//     starImage.setAttribute('src','Star/IMG_E5683.JPG');
-//   }
-// }// function
-
-
+    
