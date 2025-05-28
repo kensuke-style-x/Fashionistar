@@ -2,8 +2,6 @@
  <head>
   <title>Seven Star Pro</title>
   <meta charset = "utf-8">
-<!--    <meta name = "theme-color"
-    content = "#87ceeb"> -->
 <!--   favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="favicon_io-3/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon_io-3/favicon-32x32.png">
@@ -70,11 +68,38 @@
    p{
     line-height:3;
    }
+
+   .Button{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 20px 0;
+   }
+
+   .lang-section{
+      display:none;
+   }
+
+   .active{
+    displáy:block;
+   }
    
   </Style>
  </head>
   <body>
-    <h1>Seven Star Pro</h1>
+  <h1>Seven Star Pro</h1>
+   <div class = "Button">
+   <button id = "en-btn" >English</button>
+   <button id = "jp-btn">日本語</button>
+   <button id = "ch_simplify-btn">简体中文</button>  
+   <button id = "ch_traditional-btn">繁體中文</button>  
+   <button id = "fr-btn">Français</button>
+   <button id = "it-btn">Italiano</button>
+   <button id = "es-btn">Castellano</button>
+   <button id = "es_latino-btn">Español latinoamericano</button>
+   </div>
+   <div id = "en" class = "lang-section active">
     <h2>English</h2>
    　<h3>Thank you for downloading sincerely.</h3>
     <div class = "center">
@@ -99,54 +124,8 @@
    </div>
    <h4>About cancel</h4>
    <p>A subscription user can cancel Seven Star Pro subscription at anytime with the setting on check board.</P>
-   <h2>简体中文</h2>
-   <h3>衷心感谢您的下载。</h3>
-   <div class = "center">
-   <table>
-   <tr>
-   <th><strong>Seven Star Pro</strong></th>
-   <td><strong>2周免费试用，然后　¥ 8 / 一个月</strong></td>
-   </tr>
-   <tr>
-   <th>明星⭐️</th>
-   <td>订阅用户可以分享喜欢的单品和穿搭，尽享最新穿搭灵感。</td>
-   </tr>
-   <tr>
-   <th>搜索明星⭐️🔍</th>
-   <td>用户可以搜索明星的穿搭和物品。</td>
-   </tr>
-   <tr>
-   <th>七星<br>⭐️⭐️⭐️⭐️⭐️⭐️⭐️</th>
-   <td>订阅用户可以根据天气尽情搭配造型。</td>
-   </tr>
-   </table>
    </div>
-   <h4>关于取消</h4>
-   <p>订阅用户可以随时在设置页面取消 Seven Star Pro 订阅。</p>
-   <h2>繁體中文</h2>
-   <h3>誠摯感謝您的下載。</h3>
-   <div class = "center">
-   <table>
-   <tr>
-   <th><strong>Seven Star Pro</strong></th>
-   <td><strong>2週免費試用，然後 $30(TWD) / 一個月</strong></td>
-   </tr>
-   <tr>
-   <th>明星⭐️</th>
-   <td>訂閱用戶可以分享喜愛的單品與穿搭，盡情享受最新穿搭靈感。</td>
-   </tr>
-   <tr>
-   <th>搜尋明星⭐️🔍</th>
-   <td>使用者可以搜尋明星的穿搭和物品。</td>
-   </tr>
-   <tr>
-   <th>七星<br>⭐️⭐️⭐️⭐️⭐️⭐️⭐️</th>
-   <td>訂閱用戶可以根據天氣盡情搭配造型。</td>
-   </tr>
-   </table>
-   </div>
-   <h4>關於取消</h4>
-   <p>訂閱用戶可以隨時在設定頁面取消 Seven Star Pro 訂閱。</p>
+   <div id = "jp" class = "lang-section">
    <h2>日本語</h2>
    <h3>ダウンロードして頂きまして、誠にありがとうございます。</h3>
    <div class = "center">
@@ -171,6 +150,60 @@
    </div>
    <h4>キャンセルについて</h4>
    <p>サブスクリプションユーザーは、チェック画面の設定からいつでもキャンセルできます。</p>
+   </div>
+   <div id = "ch_simplify" class = "lang-section">
+   <h2>简体中文</h2>
+   <h3>衷心感谢您的下载。</h3>
+   <div class = "center">
+   <table>
+   <tr>
+   <th><strong>Seven Star Pro</strong></th>
+   <td><strong>2周免费试用，然后　¥ 8 / 一个月</strong></td>
+   </tr>
+   <tr>
+   <th>明星⭐️</th>
+   <td>订阅用户可以分享喜欢的单品和穿搭，尽享最新穿搭灵感。</td>
+   </tr>
+   <tr>
+   <th>搜索明星⭐️🔍</th>
+   <td>用户可以搜索明星的穿搭和物品。</td>
+   </tr>
+   <tr>
+   <th>七星<br>⭐️⭐️⭐️⭐️⭐️⭐️⭐️</th>
+   <td>订阅用户可以根据天气尽情搭配造型。</td>
+   </tr>
+   </table>
+   </div>
+   <h4>关于取消</h4>
+   <p>订阅用户可以随时在设置页面取消 Seven Star Pro 订阅。</p>
+   </div>
+   <div id = "ch_traditional" class = "lang-section">
+   <h2>繁體中文</h2>
+   <h3>誠摯感謝您的下載。</h3>
+   <div class = "center">
+   <table>
+   <tr>
+   <th><strong>Seven Star Pro</strong></th>
+   <td><strong>2週免費試用，然後 $30(TWD) / 一個月</strong></td>
+   </tr>
+   <tr>
+   <th>明星⭐️</th>
+   <td>訂閱用戶可以分享喜愛的單品與穿搭，盡情享受最新穿搭靈感。</td>
+   </tr>
+   <tr>
+   <th>搜尋明星⭐️🔍</th>
+   <td>使用者可以搜尋明星的穿搭和物品。</td>
+   </tr>
+   <tr>
+   <th>七星<br>⭐️⭐️⭐️⭐️⭐️⭐️⭐️</th>
+   <td>訂閱用戶可以根據天氣盡情搭配造型。</td>
+   </tr>
+   </table>
+   </div>
+   <h4>關於取消</h4>
+   <p>訂閱用戶可以隨時在設定頁面取消 Seven Star Pro 訂閱。</p>
+   </div>
+   <div id = "fr" class = "lang-section">
    <h2>Français</h2>
    <h3>Merci d’avoir téléchargé sincèrement.</h3>
    <div class = "center">
@@ -195,6 +228,8 @@
    </div>
    <h4>À propos de l’annulation</h4>
    <p>Un utilisateur abonné peut annuler l’abonnement Seven Star Pro à tout moment via les paramètres du tableau de contrôle.</p>
+   </div>
+   <div id = "it class = "lang-section">
    <h2>Italiano</h2>
    <h3>Grazie per aver scaricato sinceramente.</h3>
    <div class = "center">
@@ -219,6 +254,8 @@
    </div>
    <h4>Informazioni sulla cancellazione</h4>
    <p>Un utente abbonato può annullare l’abbonamento a Seven Star Pro in qualsiasi momento tramite le impostazioni della bacheca.</p>
+   </div>
+   <div id = "es" class = "lang-section">
    <h2>Castellano</h2>
    <h3>Gracias por descargar sinceramente.</h3>
    <div class = "center">
@@ -243,6 +280,8 @@
    </div>
    <h4>Sobre la cancelación</h4>
    <p>Un usuario suscriptor puede cancelar la suscripción a Seven Star Pro en cualquier momento desde la configuración del panel de control.</p>
+   </div>
+   <div id = "es_latino" class = "lang-section">
    <h2>Español latinoamericano</h2>
    <h3>Gracias por descargar sinceramente.</h3>
    <div class = "center">
@@ -267,6 +306,7 @@
    </div>
    <h4>Acerca de la cancelación</h4>
    <p>Un usuario suscrito puede cancelar la suscripción a Seven Star Pro en cualquier momento desde la configuración del panel de control.</p>
+   </div>
   </body>
   <footer>
     <h5> ©︎ STYLE-X　</h5>
