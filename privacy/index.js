@@ -13,6 +13,8 @@ function showLanguage(lang){
   }
 }
 
+showLanguage('en');
+
 //button
   document.getElementById('en-btn').addEventListener('click', () => showLanguage('en'));
   document.getElementById('jp-btn').addEventListener('click', () => showLanguage('jp'));
@@ -23,7 +25,5 @@ function showLanguage(lang){
   document.getElementById('es-btn').addEventListener('click', () => showLanguage('es'));
   document.getElementById('es_latino-btn').addEventListener('click', () => showLanguage('es_latino'));
 
-window.addEventListener('DOMContentLoaded',() -> {
-  showLanguage('en');
 });
 
