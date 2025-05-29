@@ -22,6 +22,8 @@ function showLanguage(lang){
   document.getElementById('it-btn').addEventListener('click', () => showLanguage('it'));
   document.getElementById('es-btn').addEventListener('click', () => showLanguage('es'));
   document.getElementById('es_latino-btn').addEventListener('click', () => showLanguage('es_latino'));
-  
+
+window.addEventListener('DOMContentLoaded',() -> {
+  showLanguage('en');
 });
 
