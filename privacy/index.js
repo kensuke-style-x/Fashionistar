@@ -30,6 +30,8 @@ function showLanguage(lang){
 
 //button
 document.addEventListener('DOMContentLoaded',() => {
+   
+  showLanguage('en');
   
   document.getElementById('en-btn').addEventListener('click', () => showLanguage('en'));
   document.getElementById('jp-btn').addEventListener('click', () => showLanguage('jp'));
