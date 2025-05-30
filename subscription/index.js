@@ -1,16 +1,31 @@
 //translate
 
 function showLanguage(lang){
-  
- const sections = document.querySelectorAll('.lang-section');
-  sections.forEach(section => {
+
+  const languages = ['en','jp','ch_simplify','ch_traditional','fr','it','es','es_latino'];
+  languages.forEach(id => {
+     const section = document.getElementById(id);
+    if (section) {
+      section.classList.remove('active');
       section.style.display = 'none';
+    }
   });
 
   const targetSection = document.getElementById(lang)
   if (targetSection){
+    targetSection.classList.add('active');
     targetSection.style.display = 'block';
   }
+  
+ // const sections = document.querySelectorAll('.lang-section');
+ //  sections.forEach(section => {
+ //      section.style.display = 'none';
+ //  });
+
+ //  const targetSection = document.getElementById(lang)
+ //  if (targetSection){
+ //    targetSection.style.display = 'block';
+ //  }
 }
 
 //button
@@ -25,6 +40,5 @@ document.addEventListener('DOMContentLoaded',() => {
   document.getElementById('es-btn').addEventListener('click', () => showLanguage('es'));
   document.getElementById('es_latino-btn').addEventListener('click', () => showLanguage('es_latino'));
 
-  window.addEventListener('DOMContentLoaded', () => {
-    showLanguage('en');
+ 
 });
