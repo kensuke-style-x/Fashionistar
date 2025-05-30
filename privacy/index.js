@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded',() => {
   document.getElementById('es-btn').addEventListener('click', () => showLanguage('es'));
   document.getElementById('es_latino-btn').addEventListener('click', () => showLanguage('es_latino'));
 
-  // window.addEventListener('DOMContentLoaded', () => {
-  //   showLanguage('en');
+  window.addEventListener('DOMContentLoaded', () => {
+    showLanguage('en');
 });
 
