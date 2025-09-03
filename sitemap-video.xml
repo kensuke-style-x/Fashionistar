@@ -2,6 +2,17 @@
         xmlns:video = "http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
+    <loc>https://www.style-x.net/</loc>
+     <video:video>
+       <video:thumbnail_loc>https://www.style-x.net/Star/Star Website Japanese.gif</video:thumbnail_loc>
+       <video:title>スター</video:title>
+       <video:description>スターに登録してコーディネートやアイテムをシェア</video:description>
+       <video:content_loc>https://www.style-x.net/Star/Star Website Japanese.mov</video:content_loc>
+       <video:duration>27</video:duration>
+     </video:video>
+  </url>
+        
+   <url>    
     <loc>https://www.style-x.net/Japanese</loc>
      <video:video>
        <video:thumbnail_loc>https://www.style-x.net/Star/Star Website Japanese.gif</video:thumbnail_loc>
