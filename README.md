@@ -1,2 +1,2 @@
-Seven Star 
+Fashionistar
 
