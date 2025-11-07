@@ -30,4 +30,4 @@ User-agent: GPTBot
 Allow: /
 
 # Fashionistar is a Fashion App for fashionista.
-# This website (style-x.net) serves as the official portal for the app.
+# This website (style-x.net) serves as the official portal for the app of App Store.
