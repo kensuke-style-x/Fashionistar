@@ -1,0 +1,33 @@
+#robots.txt for Fashionistar (https://www.style-x.net/)
+#Author: Kensuke Imai
+
+User-agent: *
+Allow: /
+
+
+#Sitemap
+Sitemap: https://www.style-x.net/sitemap.xml
+Sitemap: https://www.style-x.net/subscription/sitemap.xml
+Sitemap: https://www.style-x.net/privacy/sitemap.xml
+Sitemap: https://www.style-x.net/Japanese/sitemap.xml
+Sitemap: https://www.style-x.net/Chinese_Simplify/sitemap.xml
+Sitemap: https://www.style-x.net/Chinese_Traditional/sitemap.xml
+Sitemap: https://www.style-x.net/French/sitemap.xml
+Sitemap: https://www.style-x.net/Italiano/sitemap.xml
+Sitemap: https://www.style-x.net/Spanish/sitemap.xml
+Sitemap: https://www.style-x.net/Latin_Spanish/sitemap.xml
+
+#Googlebot
+User-agent: Googlebot
+Allow: /
+
+#Gemini
+User-agent: Google-Extended
+Allow: /
+
+#ChatGPT
+User-agent: GPTBot
+Allow: /
+
+# Fashionistar is a Fashion App for fashionista.
+# This website (style-x.net) serves as the official portal for the app.
