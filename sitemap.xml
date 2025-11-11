@@ -16,7 +16,7 @@
   <url>
      <loc>https://www.style-x.net/Japanese/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
@@ -30,7 +30,7 @@
   <url>
      <loc>https://www.style-x.net/Chinese_Simplify/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
@@ -44,7 +44,7 @@
   <url>
      <loc>https://www.style-x.net/Chinese_Traditional/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
@@ -58,7 +58,7 @@
   <url>
      <loc>https://www.style-x.net/French/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
@@ -72,7 +72,7 @@
   <url>
    <loc>https://www.style-x.net/Italiano/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
@@ -86,7 +86,7 @@
   <url>
    <loc>https://www.style-x.net/Spanish/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
@@ -100,7 +100,7 @@
   <url>
    <loc>https://www.style-x.net/Latin_Spanish/</loc>
      <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/"/>
-     <xhtml:link rel = "aleternate" hreflang = "jp" href = "https://www.style-x.net/Japanese/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
      <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
      <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
