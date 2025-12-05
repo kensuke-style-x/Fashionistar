@@ -4,10 +4,10 @@
   <url>
     <loc>https://www.style-x.net/</loc>
      <video:video>
-       <video:thumbnail_loc>https://www.style-x.net/Star/Star Website Japanese.gif</video:thumbnail_loc>
+       <video:thumbnail_loc>https://www.style-x.net/Star/IMG_0070.jpg</video:thumbnail_loc>
        <video:title>スター</video:title>
        <video:description>スターに登録してコーディネートやアイテムをシェア</video:description>
-       <video:content_loc>https://www.style-x.net/Star/Star Website Japanese.mov</video:content_loc>
+       <video:content_loc>https://www.style-x.net/Star/Fashionistar Website Japanese.m4v</video:content_loc>
        <video:duration>27</video:duration>
      </video:video>
   </url>
@@ -15,10 +15,10 @@
    <url>    
     <loc>https://www.style-x.net/Japanese</loc>
      <video:video>
-       <video:thumbnail_loc>https://www.style-x.net/Star/Star Website Japanese.gif</video:thumbnail_loc>
+       <video:thumbnail_loc>https://www.style-x.net/Star/IMG_0070.jpg</video:thumbnail_loc>
        <video:title>スター</video:title>
        <video:description>スターに登録してコーディネートやアイテムをシェア</video:description>
-       <video:content_loc>https://www.style-x.net/Star/Star Website Japanese.mov</video:content_loc>
+       <video:content_loc>https://www.style-x.net/Star/Fashionistar Website Japanese.m4v</video:content_loc>
        <video:duration>27</video:duration>
      </video:video>
   </url>
