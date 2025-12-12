@@ -121,6 +121,22 @@
    .AppStore-link{
     text-decoration: none;
    }
+
+   .Button{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .Button button{
+
+     padding: 10ps 10px; 
+     font-size:17px;
+     border:none;
+     border-radius: 8px;
+     background-color: #ffffff;
+      
+    }
     
   </style> 
  </head>
@@ -164,11 +180,20 @@
   <img class = "Developer" src = "/Developer/IMG_2135.JPG">  
   <h2>支持</h2>
   <p>如果您有任何问题，请随时<a href = "mailto:support@style-x.net">在此</a>联系。</p>
-  <h2></h2> 
+  <h2>语言</h2>
+  <div class = "Button">
+  <button id = "en-btn"><a href = "https://www.style-x.net/en">English</a></button>
+  <button id = "jp-btn"><a href = "https://www.style-x.net/Japanese">日本語</a></button> 
+  <button id = "ch_traditional-btn">繁體中文</button>  
+  <button id = "fr-btn">Français</button>
+  <button id = "it-btn">Italiano</button>
+  <button id = "es-btn">Español</button>
+  <button id = "es_latino-btn">Español latinoamericano</button>
+  </div>  
   </body>
   
    <footer>
-     <p>2025©︎STYLE-X</p>
+     <p>©︎STYLE-X</p>
    </footer>
  
   
