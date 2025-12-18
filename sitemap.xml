@@ -5,31 +5,47 @@
  
  <url> 
    <loc>https://www.style-x.net/</loc>
-     <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/en/"/>
-     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/"/>
-     <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/"/>
-     <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/Chinese_Traditional/"/>
-     <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/French/"/>
-     <xhtml:link rel = "alternate" hreflang = "it" href = "https://www.style-x.net/Italiano/"/>
-     <xhtml:link rel = "alternate" hreflang = "es" href = "https://www.style-x.net/Spanish/"/>
-     <xhtml:link rel = "alternate" hreflang = "es-419" href = "https://www.style-x.net/Latin_Spanish/"/>
+     <lastmod>2025-12-18</lastmod>
+         
+     <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/fashionistar/en/"/>
+     <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/fashionistar/jp/"/>
+     <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/fashionistar/ch-simplify/"/>
+     <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/fashionistar/ch-traditional/"/>
+     <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/fashionistar/fr/"/>
+     <xhtml:link rel = "alternate" hreflang = "it" href = "https://www.style-x.net/fashionistar/it/"/>
+     <xhtml:link rel = "alternate" hreflang = "es" href = "https://www.style-x.net/fashionistar/es/"/>
+     <xhtml:link rel = "alternate" hreflang = "es-419" href = "https://www.style-x.net/fashionistar/es-latino/"/>
      <xhtml:link rel = "alternate" hreflang = "x-default" href = "https://www.style-x.net/"/>       
  </url>
         
   <url>
-    <loc>https://www.style-x.net/subscription</loc>
-    <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/en/subscription"/>
-　　　<xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/subscription"/>
-　　　<xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/subscription"/> 
-    <xhtml:link rel = "alternate" hreflang = "x-default" href = "https://www.style-x.net/subscription"/>       
+    <loc>https://www.style-x.net/subscription/</loc>
+      <lastmod>2025-12-18</lastmod>
+          
+    <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/fashionistar/en/subscription/"/>
+　　 <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/fashionistar/jp/subscription/"/>      
+　　 <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/fashionistar/ch-simplify/subscription/"/> 
+    <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/fashionistar/ch-traditional/subscription/"/>
+    <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/fashionistar/fr/subscription/"/> <link rel = "alternate" hreflang = "it" href = "https://www.style-x.net/fashionistar/it/subscription/"/>
+    <xhtml:link rel = "alternate" hreflang = "es" href = "https://www.style-x.net/fashionistar/es/subscription/"/>
+    <xhtml:link rel = "alternate" hreflang = "es-419" href = "https://www.style-x.net/fashionistar/es-latino/subscription/"/>
+    <xhtml:link rel = "alternate" hreflang = "x-default" href = "https://www.style-x.net/subscription/"/>       
   </url>
         
   <url>
-    <loc>https://www.style-x.net/privacy</loc>
-    <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/en/privacy"/>
-　　　<xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/Japanese/privacy"/>
-　　　<xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/Chinese_Simplify/privacy"/>  
-    <xhtml:link rel = "alternate" hreflang = "x-default" href = "https://www.style-x.net/privacy"/>       
+    <loc>https://www.style-x.net/privacy/</loc>
+        <lastmod>2025-12-18</lastmod> 
+          
+   <xhtml:link rel = "alternate" hreflang = "en" href = "https://www.style-x.net/fashionistar/en/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "ja" href = "https://www.style-x.net/fashionistar/jp/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "zh-Hans" href = "https://www.style-x.net/fashionistar/ch-simplify/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "zh-Hant" href = "https://www.style-x.net/fashionistar/ch-traditional/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "fr" href = "https://www.style-x.net/fashionistar/fr/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "it" href = "https://www.style-x.net/fashionistar/it/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "es" href = "https://www.style-x.net/fashionistar/es/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "es-419" href = "https://www.style-x.net/fashionistar/es-latino/privacy/"/>
+   <xhtml:link rel = "alternate" hreflang = "x-default" href = "https://www.style-x.net/privacy/"/>   
+       
   </url>
  
  
