@@ -7,15 +7,6 @@ Allow: /
 
 #Sitemap
 Sitemap: https://www.style-x.net/sitemap.xml
-Sitemap: https://www.style-x.net/subscription/sitemap.xml
-Sitemap: https://www.style-x.net/privacy/sitemap.xml
-Sitemap: https://www.style-x.net/Japanese/sitemap.xml
-Sitemap: https://www.style-x.net/Chinese_Simplify/sitemap.xml
-Sitemap: https://www.style-x.net/Chinese_Traditional/sitemap.xml
-Sitemap: https://www.style-x.net/French/sitemap.xml
-Sitemap: https://www.style-x.net/Italiano/sitemap.xml
-Sitemap: https://www.style-x.net/Spanish/sitemap.xml
-Sitemap: https://www.style-x.net/Latin_Spanish/sitemap.xml
 
 #Googlebot
 User-agent: Googlebot
