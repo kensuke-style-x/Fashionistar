@@ -152,6 +152,17 @@
      background-color: #ffffff;
       
     }  
+
+    .blink {
+    animation: blink-step 3s steps(1, start) infinite;
+  }
+      
+  @keyframes blink-step {
+     0% { visibility: visible; }
+     50% { visibility: hidden; }
+    100% { visibility: visible; }
+  }
+  
     
   </style> 
  </head>
@@ -164,7 +175,7 @@
   <img class = "Apple-logo" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/it-it?releaseDate=1680652800" alt="Fashionistar App Store" style="width: 245px; height: 82px;">
   </a>
   <h2>Italiano</h2>  
-  <p>Grazie per aver scaricato l’app.</p>  
+  <p class = "blink">Grazie per aver scaricato e sottoscritto Fashionistar⭐️</p>  
   <br>
   <li>01/01/2025 Fashionistar ti augura un anno ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ nel 2025 !!!</li>
   <br>  
