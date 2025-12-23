@@ -148,6 +148,17 @@
       border-radius: 8px;
       background-color: #ffffff;
    } 
+     
+   .blink {
+    animation: blink-step 3s steps(1, start) infinite;
+  }
+      
+  @keyframes blink-step {
+     0% { visibility: visible; }
+     50% { visibility: hidden; }
+    100% { visibility: visible; }
+  }
+   
        
   
 </Style>  
