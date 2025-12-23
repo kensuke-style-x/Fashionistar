@@ -162,6 +162,16 @@
         background-color: #ffffff;
       }
   
+   .blink {
+    animation: blink-step 3s steps(1, start) infinite;
+  }
+      
+  @keyframes blink-step {
+     0% { visibility: visible; }
+     50% { visibility: hidden; }
+    100% { visibility: visible; }
+  }
+  
 </Style>  
   
 </head>
@@ -173,7 +183,8 @@
   <img class = "Apple-logo" src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/ja-jp?releaseDate=1680652800" alt="ファッショニスター App Store" style = "width: 223px; height: 82px;" >
   </a>
   <h2>日本語</h2>
-  <p>ファッショニスターをインストールして頂き、また、サブスクリプション登録していただきまして、誠にありがとうございます。</p>
+  <p class = "blink">ファッショニスターをインストールして頂き、</p>
+  <p class = "blink">またサブスクリプション登録していただきまして、誠にありがとうございます⭐️</p>
   <br>
   <li>2025/01/01 2025年が⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️な年になりますように！！！</li>
   <br> 
