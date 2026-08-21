@@ -5,22 +5,12 @@
     <loc>https://www.style-x.net/</loc>
      <video:video>
        <video:thumbnail_loc>https://www.style-x.net/Star/IMG_0070.jpg</video:thumbnail_loc>
-       <video:title>スター</video:title>
-       <video:description>スターに登録してコーディネートやアイテムをシェア</video:description>
+       <video:title>ファッショニスター</video:title>
+       <video:description>スターに登録して、コーディネートやアイテムをシェアしてくださった方で、「ファッショニスター」に選ばれた方に先着プレゼント。</video:description>
        <video:content_loc>https://www.style-x.net/Star/Fashionistar Website Japanese.m4v</video:content_loc>
        <video:duration>27</video:duration>
      </video:video>
   </url>
         
-   <url>    
-    <loc>https://www.style-x.net/fashionistar/jp</loc>
-     <video:video>
-       <video:thumbnail_loc>https://www.style-x.net/Star/IMG_0070.jpg</video:thumbnail_loc>
-       <video:title>スター</video:title>
-       <video:description>スターに登録してコーディネートやアイテムをシェア</video:description>
-       <video:content_loc>https://www.style-x.net/Star/Fashionistar Website Japanese.m4v</video:content_loc>
-       <video:duration>27</video:duration>
-     </video:video>
-  </url>
 
 </urlset>
